@@ -1,0 +1,1 @@
+Welcome to firepro! This is dices extension, that I have ported to Firefox! Enjoy!
