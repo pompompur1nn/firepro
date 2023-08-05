@@ -1,1 +1,1 @@
-Welcome to firepro! This is dices extension, that I have ported to Firefox! Enjoy!
+heya! welcome to firepro! we believe in free and open src mozilla addons!
